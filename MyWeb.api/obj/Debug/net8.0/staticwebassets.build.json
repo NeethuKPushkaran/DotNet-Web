@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fRPIEEbnxCag6/tmjsiS5KLT+YUXOZ0j3PGVLdHi8gg=",
+  "Source": "MyWeb.api",
+  "BasePath": "_content/MyWeb.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
